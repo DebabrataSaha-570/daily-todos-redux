@@ -10,4 +10,4 @@ The Daily Todo app, supported by Redux, provides a full range of tools to help y
 
 ### Live Link:
 
--
+- https://daily-todo-reduxtoolkit-rtkquery.netlify.app/
